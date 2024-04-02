@@ -7,7 +7,7 @@ Status: [Draft, Ready for review, In Review, Reviewed]
 
 Última actualización: YYYY-MM-DD
 
-## Contenido
+## Contents
 - [Objetive](#objetive) 
 - [Goals](#goals)
 - [Non-Goals](#non-goals)
